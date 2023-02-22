@@ -36,6 +36,7 @@
 	</style>
     </head>
     <body>
+    <p>hello omar</p>
          <h1>simple selectors (h1)</h1>
          <h2>subheading 1 (h2)</h2>
          <p class="highlight">dhamaan koodhka kor kahusan waa inaad <br>
